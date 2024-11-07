@@ -1,0 +1,14 @@
+numpy
+pandas
+polars
+tqdm
+matplotlib
+plotly
+scikit-learn
+spacy
+sentence-transformers
+lightgbm
+torch
+datasets
+transformers
+wandb
